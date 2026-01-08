@@ -1,5 +1,3 @@
-console.log("Hello World");
-
 /* The given statement is describing a problem where you are provided with an array of integers
 (`nums`) and an integer (`target`). The task is to find two numbers in the array that add up to the
 target value. The solution should return the indices of these two numbers. */
